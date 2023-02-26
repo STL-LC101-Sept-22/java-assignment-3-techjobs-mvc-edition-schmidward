@@ -127,6 +127,7 @@ public class JobData {
         return jobs;
     }
 
+
     private static Object findExistingObject(ArrayList list, String value){
         for (Object item : list){
             if (item.toString().toLowerCase().equals(value.toLowerCase())){

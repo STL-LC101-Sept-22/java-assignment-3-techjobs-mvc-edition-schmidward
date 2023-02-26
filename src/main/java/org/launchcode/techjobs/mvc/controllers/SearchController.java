@@ -22,5 +22,6 @@ public class SearchController {
     }
 
     // TODO #3 - Create a handler to process a search request and render the updated search view.
+    // This will likely include some type of POST mapping
 
 }
